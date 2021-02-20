@@ -1,4 +1,10 @@
-### Hi there 👋
+### About me 👋
+
+## Backend developer
+
+- 🤔 Currently working on some Python projects.
+- 🌱 Currently learning Golang & Rust.
+- 🔭 Looking for a new job chance in Japan.
 
 <!--
 **acethical/acethical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
